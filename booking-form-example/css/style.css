@@ -1,0 +1,101 @@
+body {
+	font-family: 'PT Sans', sans-serif;
+	width: 100vw;
+	height: 100vh;
+	background: #eee;
+	display: flex;
+	justify-content: center;
+}
+
+form {
+	display: grid;
+}
+
+.booking {
+	background: white;
+	max-width: 320px;
+	width: 100%;
+	margin: auto;
+	display: grid;
+	gap: 0 1.6rem;
+	padding: 1rem;
+	box-shadow: 0 0 2rem rgba(0, 0, 0, .1);
+	border-radius: .4rem;
+}
+
+.booking h1 {
+	grid-column: auto / span 2;
+	margin: 0;
+	padding: 1rem;
+	font-size: 2.4rem;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
+.col-1 {
+	grid-column: auto / span 1;
+}
+
+.col-2 {
+	grid-column: auto / span 2;
+}
+
+label {
+	font-size: .8rem;
+	margin: 0;
+	padding: 0 0 .125rem 0;
+}
+
+aside {
+	height: 2rem;
+	font-size: 1.4rem;
+	display: flex;
+	margin: 0 0 2rem 0;
+}
+
+aside h2 {
+	flex: 1;
+	text-align: center;
+	font-size: 1.4rem;
+}
+
+.mrgbottom {
+	margin: 0 0 1rem 0;
+}
+
+input[type="text"], input[type="email"], select {
+	appearance: none;
+	border: 1px solid rgba(0, 0, 0, .6);
+	height: 2rem;
+	border-radius: .25rem;
+	margin: 0 0 1rem 0;
+	padding: .125rem .5rem;
+	font-size: 1rem;
+	outline: none;
+	transition: all .2s ease;
+}
+
+input[type="text"]:focus, input[type="email"]:focus, select:focus {
+	border-color: black;
+	outline: none;
+}
+
+
+button {
+	appearance: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background: black;
+	border-radius: .25rem;
+	color: white;
+	font-size: 1.2rem;
+	font-weight: 600;
+	padding: 1rem 0;
+	margin: 1rem 0 0 0;
+	outline: none;
+}
+
+button:active {
+	background: #222;
+}
