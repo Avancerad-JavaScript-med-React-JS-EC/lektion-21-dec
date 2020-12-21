@@ -16,4 +16,5 @@ React props: https://scrimba.com/learn/learnreact/react-props-part-1-understandi
 ## Inspelningar
 
 Förmiddag: https://web.microsoftstream.com/video/bedc172f-7600-4fac-b5bc-17b40d703f9e?list=studio
+
 Eftermiddag: https://web.microsoftstream.com/video/494efffa-da29-402b-a5ec-27a4d454eae4?list=studio
