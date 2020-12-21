@@ -12,3 +12,7 @@ Klass-baserade komponenter: https://scrimba.com/learn/learnreact/class-based-com
 
 React props: https://scrimba.com/learn/learnreact/react-props-cqP7bhm
 React props: https://scrimba.com/learn/learnreact/react-props-part-1-understanding-the-concept-cvP7Qf2
+
+## Inspelningar
+
+Förmiddag: https://web.microsoftstream.com/video/bedc172f-7600-4fac-b5bc-17b40d703f9e?list=studio
